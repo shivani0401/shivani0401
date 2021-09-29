@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivani0401
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Web 🕸️
 - 🌱 I’m currently learning MCA from IMCC, SPPU
 
 <!---
