@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shivani0401
+- 👋 Hi, I’m Shivani
 - 👀 I’m interested in Web 🕸️
-- 🌱 I’m currently learning MCA from IMCC, SPPU
 
 <!---
 shivani0401/shivani0401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
